@@ -1,5 +1,13 @@
 ![image info](./images/tacoma_title.webp)
 
+Ho brah, that 'yota is cherreh! 
+
+Translation: Hey brother, that toyota looks good!
+
+## Project details
+
+A simple web application that contains price data for a base model 2022 Toyota Tacoma. Takes the information from Servco Toyota's website which makes the information local to Honolulu, Hawaii. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
